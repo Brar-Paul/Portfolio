@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Solidity/Python/React",
     description: "Auction site that allows users to list items for auctions. Using ERC20 interface for approval based bidding system",
     image: "./dEbay.png",
-    link: "https://github.com/Brar-Paul/dEbay",
+    link: "https://brar-paul.github.io/dEbay/",
   },
   {
     title: "Paul's Organic Token Farm",
