@@ -7,11 +7,11 @@ export const projects = [
     link: "https://github.com/Brar-Paul/dEbay",
   },
   {
-    title: "Paul's DeFi dApp",
-    subtitle: "Solidity/Python/React",
-    description: "Allows users to deposit, stake, and unstake a variety of tokens and earn profits in dApp token, complete with MetaMask integration",
+    title: "Paul's Organic Token Farm",
+    subtitle: "Solidity/Python/Typescript",
+    description: "Allows users to stake a variety of tokens and earn profits in PAUL token, complete with MetaMask integration and CoinGecko price",
     image: "./DeFi.png",
-    link: "https://github.com/Brar-Paul/DEFI-Project",
+    link: "https://brar-paul.github.io/DEFI-Front_End/",
   },
   {
     title: "Smart Elections",
