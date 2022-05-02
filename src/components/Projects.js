@@ -13,7 +13,7 @@ export default function Projects() {
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
                         Here are some of the dApps I've built using Solidity, Python, and React.
-                        Feel free to interact with deployed projects on a testnet or checkout my code via the Github link.
+                        Feel free to interact with deployed projects on a testnet or checkout my code <a className="underline" href="https://github.com/Brar-Paul">by clicking here</a>.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
