@@ -14,18 +14,11 @@ export const projects = [
     link: "https://brar-paul.github.io/DEFI-Front_End/",
   },
   {
-    title: "Smart Elections",
-    subtitle: "Solidity/Python/React",
-    description: "Smart elections backed on the blockchain, deployed to Rinkeby testnet. Written in Solidity, deployment and testing in Python",
-    image: "./election.png",
-    link: "https://github.com/Brar-Paul/Smart-Contract-Election",
-  },
-  {
-    title: "ETH GIFs",
-    subtitle: "Solidity/JS/React",
-    description: "ETH transfer site with MetaMask integration. Allows users to send funds and a randomly generated GIF using Giphy API",
-    image: "./ETHGIF.png",
-    link: "https://github.com/Brar-Paul/ETH-Payment-Site-React",
+    title: "ChainRep",
+    subtitle: "Solidity/Python(Brownie)",
+    description: "Decentralized Identity App that allows users to review other users by ETH address. Also allows for reviews to categorized",
+    image: "./rep.png",
+    link: "https://github.com/Brar-Paul/ChainRep",
   },
 ];
 
