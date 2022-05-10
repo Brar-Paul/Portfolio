@@ -46,4 +46,6 @@ export const skills = [
   "Ruby/Rails",
   "SQL",
   "HTML/CSS",
+  "Brownie/Ganache",
+  "Moralis/Uniswap SDK"
 ];
