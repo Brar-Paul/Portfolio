@@ -14,6 +14,13 @@ export const projects = [
     link: "https://brar-paul.github.io/DEFI-Front_End/",
   },
   {
+    title: "Faction of Truth DAO",
+    subtitle: "Solidity/Python(Brownie)",
+    description: "Decentralized Autonomous Organization using OpenZeppelin Governance Suite. W/ Scripts for deployment and proposal process in python",
+    image: "./dao.png",
+    link: "https://github.com/Brar-Paul/MyDAO",
+  },
+  {
     title: "ChainRep",
     subtitle: "Solidity/Python(Brownie)",
     description: "Decentralized Identity App that allows users to review other users by ETH address. Also allows for reviews to categorized",
